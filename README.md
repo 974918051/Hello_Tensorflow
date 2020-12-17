@@ -10,7 +10,7 @@ A case of creating neural networks, to learns the relationship between two numbe
 
 # 2. First_steps_in_computer_vision
 Trained a neural works to recognize different items of clothing from a common dataset called Fashion MNIST.
-## Some quesion:
+## Some quesions:
 ### 1. Experiment with different values for the dense layer with 128 neurons. What different results do you get for loss, training time etc? Why do you think that's the case?
 Answer: When increase to 1024 Nerons, training takes longer, but is more accurate.
 ### 2. Consider the final (output) layers. Why are there 10 of them?
