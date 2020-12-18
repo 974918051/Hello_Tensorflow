@@ -20,3 +20,6 @@ Answer: There isn't a significant impact -- because this is relatively simple da
 ### 4. Consider the impact of training for more or less epochs. Why do you think that would be the case?
 Answer: Try 15 epochs -- you'll probably get a model with a much better loss than the one with 5. 
         Try 30 epochs -- you might see the loss value stops decreasing, and sometimes increases. This is a side effect of something called 'overfitting' which you can learn about [somewhere] and it's something you need to keep an eye out for when training neural networks. There's no point in wasting your time training if you aren't improving your loss,
+
+# 3. Handwriting recognition
+Trained a neural works to recognize different hanwritten digits from a common dataset called MNIST.
