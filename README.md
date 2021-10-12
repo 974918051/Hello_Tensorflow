@@ -2,11 +2,11 @@
 
 A case of creating neural networks, to learns the relationship between two numbers.
 
-## 实现这个操作需要做以下几步：
+## To do this, do the following steps：
 
-* 创建神经网络
-* 明确Loss function 以及选择优化器（Optimizer）
-* 训练神经网络
+* Create a neural network
+* Defined Loss function and choosed Optimizer
+* Training neural network
 
 # 2. First_steps_in_computer_vision
 Trained a neural works to recognize different items of clothing from a common dataset called Fashion MNIST.
